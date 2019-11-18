@@ -3,8 +3,7 @@ A simple Laravel application that tracks expenses
 
 ## Getting Started
 
-### Installation
-
+### Prerequisites
 
 ## Technologies used
 * [Vue.js](https://vuejs.org/)
