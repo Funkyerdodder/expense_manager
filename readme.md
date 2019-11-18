@@ -12,4 +12,4 @@ A simple Laravel application that tracks expenses
 * [MySQL](https://www.mysql.com/)
 
 ## Developed and tested in:
-*[XAMPP](https://www.apachefriends.org/index.html)
+* [XAMPP](https://www.apachefriends.org/index.html)
