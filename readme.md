@@ -14,6 +14,7 @@ A simple Laravel application that tracks expenses
 3. Setup ```.env``` file
 4. Migrate database ```php artisan migrate```
 5. Seed database (with admin account) ```php artisan db:seed```
+6. Start the project ```php artisan serve``` or use [VHost](https://medium.com/@bluestar/setting-up-laravel-project-on-windows-2aa7e4f080da)
 
 ## Technologies used
 * [Vue.js](https://vuejs.org/)
