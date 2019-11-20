@@ -18,6 +18,7 @@ A simple Laravel application that tracks expenses
 
 ## Technologies used
 * [Vue.js](https://vuejs.org/)
+* [Vuetify](https://vuetifyjs.com/en/)
 * [Laravel 5.6](https://laravel.com/docs/5.6)
 * [MySQL](https://www.mysql.com/)
 
